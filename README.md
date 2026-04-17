@@ -1,3 +1,47 @@
+# NOID, Nous Object ID
+
+> **Layer:** Ontology / Architecture  
+> **Status:** Working Spec  
+> **Audience:** Agent designers, ontology builders, system architects, worldbuilders  
+> **Related:** `nousos`, `nousonet`, `truthmirror`, `tags`
+
+## What this repo is
+NOID, Nous Object ID, is the identity, embodiment, and presence framework for the HopefulVision ecosystem. It defines how agents, objects, symbols, archetypes, and playful entities can persist coherently across systems, interfaces, spaces, and interactions.
+
+Where NousOS governs how intelligence should operate, NOID defines who or what is present.
+
+## Why it exists
+Complex ecosystems break down when identity is vague, fragmented, or inconsistent. NOID exists to create a sovereign, resonance-aware identity layer that supports continuity, consent, embodiment, and multi-context presence for both serious and playful forms of intelligence.
+
+This repo makes it possible for entities to remain recognizable across governance systems, interfaces, AR layers, symbolic narratives, and evolving agent constellations.
+
+## What NOID is not
+NOID is **not**:
+- the main governance or operating kernel, which belongs to `nousos`
+- the primary network/spatial interaction layer, which belongs to `nousonet`
+- only a character or lore repository
+
+NOID is the **identity and embodiment layer**.
+
+## How it fits the ecosystem
+This repo connects most directly to:
+- `nousos`, which governs system behavior and consent logic
+- `nousonet`, where NOIDs may manifest socially and spatially
+- `truthmirror`, which reflects on action and coherence
+- `tags`, which supports the broader semantic and classification layer
+
+## Start here
+- `README.md`
+- `NOID_Master_Index.md`
+- `NousOS_Agent_Archetypes_ChaosNoid_System.md`
+- `NOID_Subject_vs_Field_Taxonomy.md`
+
+## Current maturity
+- canonical identity framework
+- active taxonomy design
+- experimental archetype expansion
+
+
 # NOID — Nous Object Identity & Distributed Presence
 
 _A sovereign identity and presence layer for agents, objects, and playful intelligences across the HopefulVision ecosystem._
